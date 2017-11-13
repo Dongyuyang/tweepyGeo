@@ -1,6 +1,12 @@
 # tweepyGeo
 get geo-tag tweets with Tweepy and status id
 
+# 备注
+
+程序比较简陋，只收集了推文和地理坐标，
+可以根据你的要求修改一下，tweet api 的文档如下
+
+https://developer.twitter.com/en/docs/tweets/search/overview
 
 # 步骤
 
