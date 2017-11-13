@@ -2,7 +2,8 @@
 get geo-tag tweets with Tweepy and status id
 
 
-#步骤
+# 步骤
+
 1.发 request mail 申请下载这个开源的Geo-tag tweets id (./data/目录下有一sample个文件)
 
 https://datorium.gesis.org/xmlui/handle/10.7802/1166
@@ -15,9 +16,9 @@ https://developer.twitter.com/
 
 python3 status.py
 
-#Tweet id file
+# Tweet id file
 ./data/
 
-#Output file
+# Output file
 GeoTweets.txt
 
